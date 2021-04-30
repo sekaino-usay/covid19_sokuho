@@ -29,11 +29,11 @@ python tweet.py
 ```
  
 # Note
-※感染者数情報はスマートニュースから取得しています。  
-※当アカウント・プログラムの使用等に伴う責任は一切負いません。
+* 感染者数情報はスマートニュースから取得しています。  
+* 当アカウント・プログラムの使用等に伴う責任は一切負いません。
  
 # Author
-* 作成者： U_SAY（Twitter：@sekaino_usay）
+* 作成者： U_SAY（[Twitter](https://twitter.com/sekaino_usay)）
 * E-mail： sekaino.usay@gmail.com
 * Web Site: https://profile.sekaino-usay.ga
  
