@@ -34,8 +34,8 @@ python tweet.py
  
 # Author
 * 作成者： U_SAY（[Twitter](https://twitter.com/sekaino_usay)）
-* E-mail： sekaino.usay@gmail.com
-* Web Site: https://profile.sekaino-usay.ga
+* メール： sekaino.usay@gmail.com
+* プロフィール: https://profile.sekaino-usay.ga
  
 # License
 MIT License
