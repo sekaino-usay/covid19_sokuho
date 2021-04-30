@@ -31,6 +31,7 @@ python tweet.py
 # Note
 * 感染者数情報はスマートニュースから取得しています。  
 * 当アカウント・プログラムの使用等に伴う責任は一切負いません。
+* 当プログラムは[ブログ](https://www.sekaino-usay.ga/programming/?p=29)でも紹介しています。ぜひご覧ください。
  
 # Author
 * 作成者： U_SAY（[Twitter](https://twitter.com/sekaino_usay)）
