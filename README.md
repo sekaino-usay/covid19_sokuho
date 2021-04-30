@@ -38,10 +38,6 @@ python tweet.py
 * Web Site: https://profile.sekaino-usay.ga
  
 # License
-プログラム（ソースコード）はご自由にお使いください。（※無断での再配布はご遠慮ください。）
-
-Copyright © 2021 U_SAY All Rights Reserved.
-----------------------------------------------------------------------------------
 MIT License
 
 Copyright (c) 2021 U_SAY
