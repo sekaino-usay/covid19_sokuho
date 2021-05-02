@@ -26,4 +26,4 @@ date = soup.find_all("p", class_="us-updated-time")
 s = [e.text for e in elems]
 n = int(s[0].split()[1])
 for e in date:
-	api.update_status("現時点での本日の大阪府の新型コロナウイルス感染者は" + str(n) + "人です。" +"(" + e.getText() +")")
+	api.update_status("現時点での本日の大阪府の新型コロナウイルス感染者は" + str(n) + "人です。(" + e.getText() +")\n#大阪府コロナ感染者数")
