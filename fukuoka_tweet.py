@@ -12,8 +12,8 @@ auth.set_access_token("Access Token", "Access Secret Token")
 # APIオブジェクトを作成
 api = tweepy.API(auth)
 
-# URLを設定
-url = "https://coronavirus.smartnews.com/jp/hokkaido"
+# URLを指定
+url = "https://coronavirus.smartnews.com/jp/fukuoka"
 
 # Requestsを利用してWebページを取得
 r = requests.get(url)
@@ -37,7 +37,7 @@ s = [e.text for e in elems]
 n = int(s[0].split()[1])
 for e in date:
 	if hour >= 10 and hour <= 23:
-		api.update_status("現時点での本日の北海道の新型コロナウイルス感染者は" + str(n) + "人です。(" + e.getText() +")\n#北海道コロナ感染者数")
+		api.update_status("現時点での本日の福岡県の新型コロナウイルス感染者は" + str(n) + "人です。(" + e.getText() +")\n#福岡県コロナ感染者数")
 
 	else:
 		print("時間外のためツイートしませんでした。")
