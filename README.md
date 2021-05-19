@@ -1,4 +1,4 @@
-# 新型コロナ感染者数速報BOT（[Twitter Bot](https://twitter.com/covid19_sokuho){:target="_blank"}）
+# 新型コロナ感染者数速報BOT（[Twitter Bot](https://twitter.com/covid19_sokuho)）
 
 新型コロナウイルスの感染者数を自動的にツイートするBotです。 ツイート対象地域は大阪府・兵庫県・東京都・北海道・福岡・愛知・日本全体です。 （2021年5月19日現在）  
 要望があれば、ツイート対象地域を広げます（DMしてください）。 
@@ -32,10 +32,10 @@ python tweet.py
 # Note
 * 感染者数情報はスマートニュースから取得しています。  
 * 当アカウント・プログラムの使用等に伴う責任は一切負いません。
-* 当プログラムは[ブログ](https://www.sekaino-usay.ga/programming/?p=29){:target="_blank"}でも紹介しています。ぜひご覧ください。
+* 当プログラムは[ブログ](https://www.sekaino-usay.ga/programming/?p=29)でも紹介しています。ぜひご覧ください。
  
 # Author
-* 作成者： U_SAY（[Twitter](https://twitter.com/sekaino_usay){:target="_blank"}）
+* 作成者： U_SAY（[Twitter](https://twitter.com/sekaino_usay)）
 * メール： sekaino.usay@gmail.com
 * プロフィール: https://profile.sekaino-usay.ga
  
