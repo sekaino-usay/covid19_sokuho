@@ -25,7 +25,7 @@ pip install beautifulsoup4
  
 # Usage
 ```bash
-cd examples
+cd directory
 python tweet.py
 ```
  
