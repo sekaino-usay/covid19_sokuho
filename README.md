@@ -18,9 +18,7 @@
 
 # Installation
 ```bash
-pip install tweepy
-pip install requests
-pip install beautifulsoup4
+pip install -r requirements.txt
 ```
  
 # Usage
