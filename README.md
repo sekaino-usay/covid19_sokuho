@@ -32,18 +32,7 @@ python tweet.py
 * 当アカウント・プログラムの使用等に伴う責任は一切負いません。
 * 当プログラムは[ブログ](https://www.sekaino-usay.ga/programming/?p=29)でも紹介しています。ぜひご覧ください。
  
-# Author
+# Developer
 * 作成者： U_SAY（[Twitter](https://twitter.com/sekaino_usay)）
 * メール： sekaino.usay@gmail.com
-* プロフィール: https://profile.sekaino-usay.ga
- 
-# License
-MIT License
-
-Copyright (c) 2021 U_SAY
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* プロフィール: https://www.usay05.com
